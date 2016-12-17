@@ -1,0 +1,27 @@
+.site {
+	background-color: white;
+}
+
+
+img {
+	width: 7%;
+	height: auto;
+
+	float: left;
+}
+
+.Menu {
+    display: inline;
+	list-style-type: none; 
+	line-height: 156px;
+}
+
+.lien {
+	margin-left: 25px;
+	text-decoration: none;
+	color: black;
+}
+
+.menu {
+	margin-left: 55px;
+}
