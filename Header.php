@@ -6,9 +6,9 @@
 		<link rel="stylesheet" type="text/css" href="Header.css">
 	</head>
 
-	<body class='site'>
+	<body>
 	<div class='logo'>
-	    <img src="C:\Users\Lucile\Documents\Cours\ISEP\A1 - Cours et documents\APP\Info/Logo.jpg">
+	    <img src="logo8.jpg">
 	</div>
 	<ul class='menu'>
 		<li class="Menu"><a class="lien" href="">Accueil</a></li>
@@ -18,7 +18,7 @@
 		<li class="Menu"><a class="lien" href="">A propos</a></li>
 		<li class="Menu"><a class="lien" href="">Nous contacter</a></li>
 	</ul>
-
 	</body>
+
 
 </html>
